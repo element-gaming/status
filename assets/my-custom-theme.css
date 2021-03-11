@@ -1,7 +1,11 @@
 :root {
-  --body-background-color: #001716;
+  --body-background-color: #363636;
   --body-text-color: #f0ffff;
-  --card-background-color: #002b29;
-  --nav-background-color: #002b29;
-  --nav-border-bottom-color: #015450;
+  --card-background-color: #1d1d1d;
+  --nav-background-color: #1d1d1d;
+  --nav-border-bottom-color: #111111;
+}
+
+html {
+  font-family: Roboto,sans-serif;
 }
