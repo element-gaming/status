@@ -2,87 +2,87 @@
   {
     "name": "Website",
     "url": "https://element-gaming.eu",
-    "icon": "https://favicons.githubusercontent.com/element-gaming.eu",
+    "icon": "https://app.element-gaming.eu/_nuxt/icons/icon_64x64.c8d5ec.png",
     "slug": "website",
     "status": "down",
-    "uptime": "0.41%",
-    "uptimeDay": "0.41%",
-    "uptimeWeek": "0.41%",
-    "uptimeMonth": "0.41%",
-    "uptimeYear": "0.41%",
-    "time": 136,
-    "timeDay": 136,
-    "timeWeek": 136,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
+    "time": 153,
+    "timeDay": 153,
+    "timeWeek": 153,
+    "timeMonth": 153,
+    "timeYear": 153,
     "dailyMinutesDown": {
-      "2021-03-11": 2
+      "2021-03-11": 21
     }
   },
   {
     "name": "Web App Network",
     "url": "https://app.element-gaming.eu",
-    "icon": "https://favicons.githubusercontent.com/app.element-gaming.eu",
+    "icon": "https://app.element-gaming.eu/_nuxt/icons/icon_64x64.c8d5ec.png",
     "slug": "web-app-network",
     "status": "down",
-    "uptime": "0.76%",
-    "uptimeDay": "0.76%",
-    "uptimeWeek": "0.76%",
-    "uptimeMonth": "0.76%",
-    "uptimeYear": "0.76%",
-    "time": 106,
-    "timeDay": 106,
-    "timeWeek": 106,
-    "timeMonth": 106,
-    "timeYear": 106,
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
+    "time": 137,
+    "timeDay": 137,
+    "timeWeek": 137,
+    "timeMonth": 137,
+    "timeYear": 137,
     "dailyMinutesDown": {
-      "2021-03-11": 2
+      "2021-03-11": 21
     }
   },
   {
     "name": "API",
     "url": "https://api.element-gaming.eu",
-    "icon": "https://favicons.githubusercontent.com/api.element-gaming.eu",
+    "icon": "https://app.element-gaming.eu/_nuxt/icons/icon_64x64.c8d5ec.png",
     "slug": "api",
     "status": "down",
-    "uptime": "1.08%",
-    "uptimeDay": "1.08%",
-    "uptimeWeek": "1.08%",
-    "uptimeMonth": "1.08%",
-    "uptimeYear": "1.08%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 129,
     "timeDay": 129,
     "timeWeek": 129,
     "timeMonth": 129,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2021-03-11": 2
+      "2021-03-11": 21
     }
   },
   {
     "name": "Telegram Bot",
     "url": "https://api.element-gaming.eu",
-    "icon": "https://favicons.githubusercontent.com/api.element-gaming.eu",
+    "icon": "https://app.element-gaming.eu/_nuxt/icons/icon_64x64.c8d5ec.png",
     "slug": "telegram-bot",
     "status": "down",
-    "uptime": "1.37%",
-    "uptimeDay": "1.37%",
-    "uptimeWeek": "1.37%",
-    "uptimeMonth": "1.37%",
-    "uptimeYear": "1.37%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 15,
     "timeDay": 15,
     "timeWeek": 15,
     "timeMonth": 15,
     "timeYear": 15,
     "dailyMinutesDown": {
-      "2021-03-11": 2
+      "2021-03-11": 21
     }
   },
   {
     "name": "Shortner URL",
     "url": "https://emt.gg",
-    "icon": "https://favicons.githubusercontent.com/emt.gg",
+    "icon": "https://app.element-gaming.eu/_nuxt/icons/icon_64x64.c8d5ec.png",
     "slug": "shortner-url",
     "status": "down",
     "uptime": "0.00%",
@@ -90,13 +90,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 96,
-    "timeDay": 96,
-    "timeWeek": 96,
-    "timeMonth": 96,
-    "timeYear": 96,
+    "time": 108,
+    "timeDay": 108,
+    "timeWeek": 108,
+    "timeMonth": 108,
+    "timeYear": 108,
     "dailyMinutesDown": {
-      "2021-03-11": 2
+      "2021-03-11": 21
     }
   }
 ]
