@@ -22,7 +22,7 @@ status-website:
   cname: status.element-gaming.eu
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  themeUrl: https://status.element-gaming.eu/my-custom-theme.css
+  theme: ocean
   logoUrl: https://app.element-gaming.eu/_nuxt/icons/icon_64x64.c8d5ec.png
   name: Element Gaming
   favicon: https://app.element-gaming.eu/_nuxt/icons/icon_64x64.c8d5ec.png
