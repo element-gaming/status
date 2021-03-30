@@ -12,7 +12,7 @@ sites:
     icon: https://app.element-gaming.eu/_nuxt/icons/icon_64x64.c8d5ec.png  
   - name: API Service
     method: GET
-    url: https://api.element-gaming.eu/api/twitch/online-utils
+    url: https://api.element-gaming.eu/api/v1/twitch/utils
     headers:
       - "Content-Type: application/json"
     icon: https://app.element-gaming.eu/_nuxt/icons/icon_64x64.c8d5ec.png
